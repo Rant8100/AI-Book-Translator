@@ -26,7 +26,7 @@ OpenAI Account with an API Key
 Clone the repository:
 
 Bash
-git clone https://github.com/Rant8100/translate-books.git
+git clone https://github.com/Rant8100/AI-Book-Translator.git
 cd translate-books
 3. Install Dependencies
 Install the required packages:
@@ -146,7 +146,7 @@ Python 3.8+
 Клонируйте репозиторий:
 
 Bash
-git clone https://github.com/Rant8100/translate-books.git
+git clone https://github.com/Rant8100/AI-Book-Translator.git
 cd translate-books
 3. Библиотеки
 Установите необходимые пакеты:
